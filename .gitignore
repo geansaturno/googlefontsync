@@ -1,0 +1,6 @@
+**/*.woff2
+**/*.ttf
+**/*.log
+
+node_modules
+config.json
