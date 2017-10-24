@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
+    "commander": "^2.11.0",
     "ttf2woff2": "^2.0.3",
     "woff2": "0.0.1"
   }
