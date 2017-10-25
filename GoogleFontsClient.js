@@ -1,6 +1,9 @@
 class GoogleFontsClient {
-    constructor(){
-        console.log('oi goole');
+    constructor(apiKey){
+        this._apiKey = apiKey;
+
+
+        console.log(this._apiKey);
     }
 }
 
